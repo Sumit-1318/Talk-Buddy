@@ -1,0 +1,36 @@
+ONE TO ONE CHAT
+Group CHAT
+message save
+
+users
+
+
+
+entities
+    user
+    message
+    group 
+
+
+userSChema
+    username
+    password
+    contact
+    img
+    socketId  online/offline
+
+
+message 
+    time
+    msg
+    fromUser
+    toUser
+    groupId
+
+Group
+    name
+    users
+    admin
+
+    
+
